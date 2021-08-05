@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button btnCalculate,btnSubmit;
+    Button btnCalculate,btnSubmit,btnAdd;
 
 
     @Override
