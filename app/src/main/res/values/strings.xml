@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTemperature_WD</string>
+    <string name="CelciusRB">celcius</string>
+    <string name="farenheit">Fahrenheit</string>
+    <string name="Calbutton">calculate</string>
+    <string name="temp">Enter temperature</string>
+
+</resources>
